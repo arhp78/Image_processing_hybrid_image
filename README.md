@@ -1,5 +1,11 @@
 # Image_processing_hybrid_image
 ### A hybrid image is an image that is perceived in one of two different ways, depending on viewing distance, based on the way humans process visual input. We implement this in this project.
+
+## Use these package:
+### -numpy
+### -cv2 
+### -math
+---
 For example:
 
 Input:
